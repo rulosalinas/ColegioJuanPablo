@@ -1,0 +1,4 @@
+D:\visual\JUAN PABLO II\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+D:\visual\JUAN PABLO II\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+D:\visual\JUAN PABLO II\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+D:\visual\JUAN PABLO II\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
