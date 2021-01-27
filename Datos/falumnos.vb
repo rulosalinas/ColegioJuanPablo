@@ -1,5 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Imports System.Data
+'comentario de rama 
 'clase para cargar los datos de la tlabla alumnos
 Public Class falumnos
     Inherits conexion 'llamamos a la clase conexion para poder usarla
