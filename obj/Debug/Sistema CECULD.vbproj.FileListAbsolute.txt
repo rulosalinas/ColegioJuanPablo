@@ -1,0 +1,204 @@
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+c:\users\mery\documents\visual studio 2013\Projects\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Alumnos.resources
+E:\visual\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+E:\visual\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+E:\visual\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+E:\visual\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumnos.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+E:\visual\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+E:\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+E:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+E:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+E:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+D:\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+D:\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+D:\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+D:\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumnos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+C:\Users\CAJA\Downloads\ej java\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+C:\Users\CAJA\Downloads\ej java\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+C:\Users\CAJA\Downloads\ej java\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+C:\Users\CAJA\Downloads\ej java\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmalumnos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabminscripciones.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmalumnos.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabminscripciones.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmtutor.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumnos.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmpagos.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+D:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+D:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+D:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+D:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmtutor.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+C:\Users\CAJA\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+C:\Users\CAJA\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+C:\Users\CAJA\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmtutor.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Aranceles.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Detalle.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmpagos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Pagos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmtutor.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmaranceles.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+H:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+H:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+H:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmalumnos.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabminscripciones.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmtutor.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumnos.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Aranceles.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Detalle.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmaranceles.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmpagos.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Pagos.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmtutor.resources
+H:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+E:\Pendrive\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+E:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+E:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+E:\Pendrive\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmalumnos.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabminscripciones.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmtutor.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Aranceles.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Detalle.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmaranceles.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmpagos.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Pagos.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmtutor.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.abmcarreras.resources
+C:\Users\Rulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Carreras.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbprojAssemblyReference.cache
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmalumnos.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.abmcarreras.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabminscripciones.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmtutor.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Aranceles.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Carreras.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Detalle.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmaranceles.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmpagos.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Pagos.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema_CECULD.frmtutor.resources
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.cache
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.CoreCompileInputs.cache
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+D:\UsuarioRulo\Desktop\Sistema CECULD\Sistema CECULD\obj\Debug\Sistema CECULD.pdb
+C:\Users\CAJA\Desktop\Sistema CECULD\bin\Debug\Sistema CECULD.exe.config
+C:\Users\CAJA\Desktop\Sistema CECULD\bin\Debug\Sistema CECULD.exe
+C:\Users\CAJA\Desktop\Sistema CECULD\bin\Debug\Sistema CECULD.pdb
+C:\Users\CAJA\Desktop\Sistema CECULD\bin\Debug\Sistema CECULD.xml
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema CECULD.vbprojResolveAssemblyReference.cache
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmalumnos.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.abmcarreras.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabminscripciones.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmtutor.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmalumno.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Aranceles.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Carreras.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Detalle.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmaranceles.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Inicio.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Instituciones.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Login.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Resources.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Niveles.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmabmpagos.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Pagos.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.Principal.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frminscripciones.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema_CECULD.frmtutor.resources
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema CECULD.vbproj.GenerateResource.Cache
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema CECULD.exe
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema CECULD.xml
+C:\Users\CAJA\Desktop\Sistema CECULD\obj\Debug\Sistema CECULD.pdb

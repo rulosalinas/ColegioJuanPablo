@@ -1,0 +1,13 @@
+D:\Sistema CECULD\Sistema CECULD\bin\Release\Sistema CECULD.exe.config
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.frmabmalumnos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.frmalumnos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.frmalumno.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.Inicio.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.Instituciones.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.Login.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.Resources.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.Niveles.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.frmpagos.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.Principal.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema_CECULD.frminscripciones.resources
+D:\Sistema CECULD\Sistema CECULD\obj\Release\Sistema CECULD.vbproj.GenerateResource.Cache
